@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "281261605407",
+    "project_id": "side-street-eb65e",
+    "storage_bucket": "side-street-eb65e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281261605407:android:e59dbfea3623b9c31c4b2a",
+        "android_client_info": {
+          "package_name": "com.kennymejia.side_street"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHp_lazIkVkOIXxygqmRWa-AN_qg_eYII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281261605407:android:33c67009d64a02fc1c4b2a",
+        "android_client_info": {
+          "package_name": "com.kennymejia.sidestreet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHp_lazIkVkOIXxygqmRWa-AN_qg_eYII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
